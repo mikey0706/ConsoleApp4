@@ -29,7 +29,6 @@ namespace ConsoleApp4
                 if (max < arr[i])
                 {
                     max = arr[i];
-                    continue;
                 }
                 else 
                 if (min>arr[i]) 
